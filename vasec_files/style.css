@@ -57,6 +57,10 @@ section{
   animation: text-move 10s infinite;
 }
 
+.brand {
+    font-family: 'Poppins', sans-serif;
+}
+
 @keyframes text-move{
   0%{
     margin-top: 0;
